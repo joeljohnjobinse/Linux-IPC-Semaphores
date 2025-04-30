@@ -124,10 +124,12 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
+
 ![ex5_1](https://github.com/user-attachments/assets/8ca34e5c-227f-4c18-a2da-e635fc3accab)
 
 
 $ ipcs
+
 ![ex5_2](https://github.com/user-attachments/assets/1e13581c-65ba-4e3d-bc4f-ee1325ebc668)
 
 
